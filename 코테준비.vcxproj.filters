@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1일차">
+      <UniqueIdentifier>{20089825-0c5a-4cbc-8020-805cdca77729}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1일차_수박수박수박수박수박수.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="수박수박수박%282단계%29.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="카드뭉치(3단계).cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="대충만든자판(4단계).cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
