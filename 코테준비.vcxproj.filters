@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\1일차">
       <UniqueIdentifier>{20089825-0c5a-4cbc-8020-805cdca77729}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2일차">
+      <UniqueIdentifier>{f0542138-a0a2-4eca-a664-f23f5b4ab694}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -26,6 +29,15 @@
     </ClCompile>
     <ClCompile Include="대충만든자판(4단계).cpp">
       <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="콜라문제(3단계).cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="기사단원의무기(3단계).cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="체육복(4단계).cpp">
+      <Filter>소스 파일\2일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

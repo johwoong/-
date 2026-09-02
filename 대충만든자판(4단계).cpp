@@ -13,7 +13,7 @@ vector<int> solution(vector<string> keymap, vector<string> targets) {
     }
 
     for (const string& key : keymap) {
-        for (int i = 0; i < key.length(); i++) {
+        for (int i = 0; i < key.length(); i++) {2
             char ch = key[i];
             int press_count = i + 1;
 
