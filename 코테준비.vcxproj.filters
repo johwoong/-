@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\2일차">
       <UniqueIdentifier>{f0542138-a0a2-4eca-a664-f23f5b4ab694}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3일차">
+      <UniqueIdentifier>{88881235-5e2b-4161-b817-e1b363368824}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -38,6 +41,15 @@
     </ClCompile>
     <ClCompile Include="체육복(4단계).cpp">
       <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="명예의전당(3단계).cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="햄버거(3단계).cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="바탕화면(4단계).cpp">
+      <Filter>소스 파일\3일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
