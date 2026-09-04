@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\3일차">
       <UniqueIdentifier>{88881235-5e2b-4161-b817-e1b363368824}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4일차">
+      <UniqueIdentifier>{fa90bc24-580a-414b-89ce-6ddfe102fcc8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -50,6 +53,15 @@
     </ClCompile>
     <ClCompile Include="바탕화면(4단계).cpp">
       <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="피로도(5단계).cpp">
+      <Filter>소스 파일\4일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2016년%283단계%29.cpp">
+      <Filter>소스 파일\4일차</Filter>
+    </ClCompile>
+    <ClCompile Include="예상대진표(4단계).cpp">
+      <Filter>소스 파일\4일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
