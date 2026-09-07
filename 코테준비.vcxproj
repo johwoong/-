@@ -138,6 +138,7 @@
     <ClCompile Include="바탕화면(4단계).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="삼각달팽이.cpp" />
     <ClCompile Include="수박수박수박%282단계%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

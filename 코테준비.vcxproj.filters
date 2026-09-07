@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\4일차">
       <UniqueIdentifier>{fa90bc24-580a-414b-89ce-6ddfe102fcc8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\5일차">
+      <UniqueIdentifier>{b04d0ecc-75cc-487f-b6ca-de3bd544da79}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="예상대진표(4단계).cpp">
       <Filter>소스 파일\4일차</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각달팽이.cpp">
+      <Filter>소스 파일\5일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
