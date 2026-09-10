@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\7일차">
       <UniqueIdentifier>{c25923c7-f947-42e8-9431-1b270e84e5cc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8일차">
+      <UniqueIdentifier>{cafd414c-f4fa-4b6d-87b0-97dc6e260f90}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -98,6 +101,12 @@
     </ClCompile>
     <ClCompile Include="이모티콘할인행사(6단계).cpp">
       <Filter>소스 파일\7일차</Filter>
+    </ClCompile>
+    <ClCompile Include="리코챗로봇(6단계).cpp">
+      <Filter>소스 파일\8일차</Filter>
+    </ClCompile>
+    <ClCompile Include="시소짝꿍%286단계%29.cpp">
+      <Filter>소스 파일\8일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
