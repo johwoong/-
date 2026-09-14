@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\8일차">
       <UniqueIdentifier>{cafd414c-f4fa-4b6d-87b0-97dc6e260f90}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\9일차">
+      <UniqueIdentifier>{364b038c-381b-47da-a326-d67350fa9c39}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -107,6 +110,18 @@
     </ClCompile>
     <ClCompile Include="시소짝꿍%286단계%29.cpp">
       <Filter>소스 파일\8일차</Filter>
+    </ClCompile>
+    <ClCompile Include="디펜스게임(6단계).cpp">
+      <Filter>소스 파일\8일차</Filter>
+    </ClCompile>
+    <ClCompile Include="모음사전(5단계).cpp">
+      <Filter>소스 파일\9일차</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자변환하기(5단계).cpp">
+      <Filter>소스 파일\9일차</Filter>
+    </ClCompile>
+    <ClCompile Include="당구연습(6단계).cpp">
+      <Filter>소스 파일\9일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
