@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\9일차">
       <UniqueIdentifier>{364b038c-381b-47da-a326-d67350fa9c39}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\10일차">
+      <UniqueIdentifier>{80b65fe0-4250-465d-97d0-7a62ad7f9167}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -122,6 +125,15 @@
     </ClCompile>
     <ClCompile Include="당구연습(6단계).cpp">
       <Filter>소스 파일\9일차</Filter>
+    </ClCompile>
+    <ClCompile Include="여행경로(7단계).cpp">
+      <Filter>소스 파일\10일차</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크(7단계).cpp">
+      <Filter>소스 파일\10일차</Filter>
+    </ClCompile>
+    <ClCompile Include="조이스틱(6단계).cpp">
+      <Filter>소스 파일\10일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
