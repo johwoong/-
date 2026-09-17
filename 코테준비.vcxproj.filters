@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\11일차">
       <UniqueIdentifier>{57cc309a-e9a1-4759-82e4-3c35eb29c803}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\12일차">
+      <UniqueIdentifier>{c7b1c63a-d21d-4631-9ea1-c4efc5a09f17}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -146,6 +149,15 @@
     </ClCompile>
     <ClCompile Include="양과늑대(7단계).cpp">
       <Filter>소스 파일\11일차</Filter>
+    </ClCompile>
+    <ClCompile Include="타겟넘버(5단계)cpp.cpp">
+      <Filter>소스 파일\12일차</Filter>
+    </ClCompile>
+    <ClCompile Include="배달(5단계).cpp">
+      <Filter>소스 파일\12일차</Filter>
+    </ClCompile>
+    <ClCompile Include="가장먼노드(6단계).cpp">
+      <Filter>소스 파일\12일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
