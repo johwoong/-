@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\14일차">
       <UniqueIdentifier>{09b845f2-f696-487c-a13a-881f672aa649}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\15일차">
+      <UniqueIdentifier>{292e03bf-0756-4fe0-877e-f220371d368e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -182,6 +185,15 @@
     </ClCompile>
     <ClCompile Include="부대복귀(7단계).cpp">
       <Filter>소스 파일\14일차</Filter>
+    </ClCompile>
+    <ClCompile Include="금과은운반하기(7단계).cpp">
+      <Filter>소스 파일\15일차</Filter>
+    </ClCompile>
+    <ClCompile Include="등대(7단계).cpp">
+      <Filter>소스 파일\15일차</Filter>
+    </ClCompile>
+    <ClCompile Include="에어컨(7단계).cpp">
+      <Filter>소스 파일\15일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
