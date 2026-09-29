@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\15일차">
       <UniqueIdentifier>{292e03bf-0756-4fe0-877e-f220371d368e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\16일차">
+      <UniqueIdentifier>{30fc7993-4f6d-4428-8b61-8b85a5edfd99}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="수박수박수박%282단계%29.cpp">
@@ -194,6 +197,15 @@
     </ClCompile>
     <ClCompile Include="에어컨(7단계).cpp">
       <Filter>소스 파일\15일차</Filter>
+    </ClCompile>
+    <ClCompile Include="카운트다운(7단계).cpp">
+      <Filter>소스 파일\16일차</Filter>
+    </ClCompile>
+    <ClCompile Include="순위(6단계).cpp">
+      <Filter>소스 파일\16일차</Filter>
+    </ClCompile>
+    <ClCompile Include="H-Index(4단계).cpp">
+      <Filter>소스 파일\16일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
